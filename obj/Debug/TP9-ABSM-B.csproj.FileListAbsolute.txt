@@ -1,0 +1,10 @@
+C:\Users\santi\OneDrive\Documentos\Facultad\1er Año\Programación II\Archivos\TP9-ABSM-B\bin\Debug\TP9-ABSM-B.exe.config
+C:\Users\santi\OneDrive\Documentos\Facultad\1er Año\Programación II\Archivos\TP9-ABSM-B\bin\Debug\TP9-ABSM-B.exe
+C:\Users\santi\OneDrive\Documentos\Facultad\1er Año\Programación II\Archivos\TP9-ABSM-B\bin\Debug\TP9-ABSM-B.pdb
+C:\Users\santi\OneDrive\Documentos\Facultad\1er Año\Programación II\Archivos\TP9-ABSM-B\obj\Debug\TP9-ABSM-B.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Documentos\Facultad\1er Año\Programación II\Archivos\TP9-ABSM-B\obj\Debug\TP9_ABSM_B.ABMS.resources
+C:\Users\santi\OneDrive\Documentos\Facultad\1er Año\Programación II\Archivos\TP9-ABSM-B\obj\Debug\TP9_ABSM_B.Properties.Resources.resources
+C:\Users\santi\OneDrive\Documentos\Facultad\1er Año\Programación II\Archivos\TP9-ABSM-B\obj\Debug\TP9-ABSM-B.csproj.GenerateResource.cache
+C:\Users\santi\OneDrive\Documentos\Facultad\1er Año\Programación II\Archivos\TP9-ABSM-B\obj\Debug\TP9-ABSM-B.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Documentos\Facultad\1er Año\Programación II\Archivos\TP9-ABSM-B\obj\Debug\TP9-ABSM-B.exe
+C:\Users\santi\OneDrive\Documentos\Facultad\1er Año\Programación II\Archivos\TP9-ABSM-B\obj\Debug\TP9-ABSM-B.pdb
